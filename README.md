@@ -8,11 +8,11 @@ The purpose of the project is to convince investors that a bike-sharing program 
 
 1. Checkout Times for Users Visit
 
-![checkout_times_for_user](./Resources/checkout_times_for_user.PNG)
+   ![checkout_times_for_user](./Resources/checkout_times_for_user.PNG)
 
-[Go to View in Tableau](https://public.tableau.com/profile/hsinyu.lin#!/vizhome/BikesharingChallenge_16205956108970/CheckoutTimesforUsers)
+   [Go to View in Tableau](https://public.tableau.com/profile/hsinyu.lin#!/vizhome/BikesharingChallenge_16205956108970/CheckoutTimesforUsers)
 
-  The line graph displays the number of bikes checked out by duration for all users. The different duration can be filtered out. If clicking and skimming through all data, you will find that the most frequent trip duration is within an hour and less than 20 minutes. 
+   The line graph displays the number of bikes checked out by duration for all users. The different duration can be filtered out. If clicking and skimming through all data, you will find that the most frequent trip duration is within an hour and less than 20 minutes. 
 
 
 2. Checkout Times by Gender Visit
