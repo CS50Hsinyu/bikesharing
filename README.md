@@ -57,7 +57,7 @@ The purpose of the project is to convince investors that a bike-sharing program 
 
    [Go to View in Tableau](https://public.tableau.com/profile/hsinyu.lin#!/vizhome/BikesharingChallenge_16205956108970/AverageTripDurationbyAge)
 
-  The area chart represents the average trip duration by different ages. People who were born 1891 and 1969 has longer duration than others. I include the area chart and trips by weekday per hour in a dashboard and set filter action. If you click on year of 1891, you will see that heatmap shows that the group of people have rides on Sunday. If you click on year of 1969, you will see the heatmap shows that the group of people have rides mostly on Saturday and Sunday. 
+   The area chart represents the average trip duration by different ages. People who were born 1891 and 1969 has longer duration than others. I include the area chart and trips by weekday per hour in a dashboard and set filter action. If you click on year of 1891, you will see that heatmap shows that the group of people have rides on Sunday. If you click on year of 1969, you will see the heatmap shows that the group of people have rides mostly on Saturday and Sunday. 
 
 
 7. Starting Locations and Ending Locations
